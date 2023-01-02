@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Typescript | Python |   
-- 🌐 &nbsp; MongoDB | Postman | HTML | CSS | JavaScript | React | NodeJs | ExpressJs |
+- 🌐 &nbsp; MongoDB | Postman | HTML | CSS |  React | NodeJs | ExpressJs | NextJS  | React Native |
 - 🛢 &nbsp; MySQL | Firebase |
 
 
