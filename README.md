@@ -32,6 +32,8 @@
   &nbsp; <a href="https://www.instagram.com/itsaalexk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
   &nbsp; <a href="https://www.linkedin.com/in/alex-kononenko-17a2a524b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a href="mailto:alexkononenko6@protonmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
- <a href = "https://main-site-itsaalexk.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/XhDBVc7IBFl9/resume-website"  width="50" /></a>
+   &nbsp; <a href="https://main-site-itsaalexk.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/106255458/211166536-97557a7a-67ce-49fa-9e89-adcf59097dd4.png"
+ width="50" /></a>  
+
  
 </p>
