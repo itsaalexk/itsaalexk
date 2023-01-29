@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Alex. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Backend Development using MERN stack.
