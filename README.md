@@ -19,7 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaalexk&layout=compact&text_color=daf7dc&bg_color=151515)
 
-<h3> 🤝🏻 Let's stay in touch! </h3>
+<h3 align='right'> 🤝🏻 Let's stay in touch! </h3>
 
 <p align="right">
   &nbsp; <a href="https://www.instagram.com/itsaalexk/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
