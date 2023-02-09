@@ -1,9 +1,8 @@
 <h2> Hey there! I'm Alex. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend Development using MERN stack.
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Web Development.
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security && Open Source contributor in my free time.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
