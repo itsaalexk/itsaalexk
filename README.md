@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security && Open Source contributor in my free time.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Typescript | Python |   
